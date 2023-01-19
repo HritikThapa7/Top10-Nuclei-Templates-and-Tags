@@ -1,0 +1,10 @@
+cve
+panel
+wordpress
+edb
+wp-plugin
+exposure
+tech
+xss
+lfi
+cve2021
